@@ -23,7 +23,7 @@ img{
     left:50%;
 }
 .profile-card{
-    width: 377px;
+    width: 344px;
     height: 409px;
     background-color:white;
     /* border-radius: 0.66vh; */
@@ -36,13 +36,13 @@ img{
 }
 .card-temp{
     object-fit: contain;
-    width: 377px;
+    width: 344px;
     border-radius: 10px 10px 0px 0px;
 }
 .profile {
     position: absolute;
-    top: 90px;
-    left: 130px;
+    top: 20%;
+    left: 34%;
     border-radius: 50%;
     border: 5px solid white;
 }
@@ -58,21 +58,22 @@ img{
 .profile-card h3 span, p {
     color:hsl(0, 0%, 59%);
     font-weight: 400;
-    margin-top: 10.2px;
+    margin-top: 11px;
 }
 #footer{
     border-top-color: hsl(0, 0%,89%);
-    width: 377px;
+    width: 344px;
     border-top-style: solid;
     border-width: 0.1vh;
+    margin-top: 56px;
 }
 #child{
-    width: 62px;
+    width: 50px;
     border: 0px;
     display: inline-block;
     font-family: 'Kumbh Sans', serif;
     text-align: center;
-    margin-top: 3px;
+    margin-top: 10px;
 }
 #child p{
     margin-top: 0px;
@@ -86,10 +87,10 @@ img{
     margin: 0px 40px 0px 34px;
 }
 .footer--2{
-    margin: 0px 1px 0px 16px;
+    margin: 0px 44px 0px 15px;
 }
 .footer--3{
-    margin: 0px 47px 0px 43px;
+    margin: 0px ​50px 0px 33p;
 }  
 @media only screen and (max-width: 380px) {
     .bg-top {
